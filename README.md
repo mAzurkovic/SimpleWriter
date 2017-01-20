@@ -10,9 +10,7 @@
 </br>
 
 ## Screenshots
-
-[<img alt='SimpleWriter' src="https://github.com/mAzurkovic/SimpleWriter/blob/master/build/Screenshot.png?raw=true">](https://github.com/mAzurkovic/SimpleWriter/releases)
-
+W
 ## Development
 
 ```
